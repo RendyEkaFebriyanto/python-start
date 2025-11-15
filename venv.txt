@@ -1,0 +1,5 @@
+jalankan source venv/bin/activate jika nama foldernya venv, atau sesuaikan: source .venv/bin/activate bila pakai .venv.​
+
+Untuk membuat dulu venv: python3 -m venv venv, lalu aktifkan dengan perintah di atas.
+
+ python3 -m pip install pyqt5
